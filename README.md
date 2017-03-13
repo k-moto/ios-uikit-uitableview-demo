@@ -1,4 +1,4 @@
-# UITableView2
+# UITableView
 
 ## 概要
 UITableViewはテーブル形式のViewを管理するクラスです。
